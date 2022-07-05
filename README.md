@@ -1,3 +1,4 @@
+# spoti-react
 # Redux Router Skeleton
 
 Simple skeleton project ready to be used in everything you want! :)
@@ -20,4 +21,4 @@ $ git clone repository
 $ npm install
 $ npm start
 ```
-# spoti-react
+
